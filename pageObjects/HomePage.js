@@ -19,7 +19,7 @@ class HomePage{
 
     async goTO()
     {
-        await this.page.goto("https://parabank.parasoft.com/parabank/index.htm");
+        await this.page.goto("/");
     }
 
     async clickOnRegistrationLink() 
