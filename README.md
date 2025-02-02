@@ -11,7 +11,7 @@ ParaBankPlayWrightAutomation project is an end-to-end automation framework built
 - Node.js (runtime environment)
 
 # Project Structure
-ParaBankPlayWrightAutomation/
+'''ParaBankPlayWrightAutomation/
 │
 ├── pageObjects/           # Page Object Model files for interactions with the application
 ├── fixtures/              # Used to Store Test Data in Json File
@@ -20,7 +20,7 @@ ParaBankPlayWrightAutomation/
 ├── testData/              # Test data to store data for different scenarios at run time
 ├── allure-report/         # Generated Allure reports for test results
 ├── JenkinsFile            # Jenkins pipeline for CI/CD automation
-└── README.md              # This readme file
+└── README.md              # This readme file'''
 
 
  # Steps to Run the Automation Test
